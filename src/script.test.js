@@ -4,7 +4,7 @@ import {
   calculator,
   caesarCipher,
   analyzeArray,
-} from "./src";
+} from ".";
 test("Capitalize the first letter", () => {
   expect(capitalize("golgo13")).toBe("G");
 });
